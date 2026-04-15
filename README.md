@@ -1,4 +1,7 @@
-[<button style="background-color:#0074D9;color:white;padding:12px 24px;border:none;border-radius:6px;cursor:pointer;font-size:18px;margin-bottom:18px;"><b>Download Salary Calculator - DATA FIELD.xlsx</b></button>](./salary%20calculator%20-%20DATA%20FIELD.xlsx)
+<a href="./salary%20calculator%20-%20DATA%20FIELD.xlsx" target="_blank" style="text-decoration:none;">
+  <img alt="Download Salary Calculator - DATA FIELD.xlsx" src="https://img.shields.io/badge/Download%20Salary%20Calculator-DATA%20FIELD.xlsx-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</a>
+
 
 ---
 
